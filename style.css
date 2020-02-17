@@ -1,0 +1,19 @@
+.contact{
+    display: flex;
+    flex-direction: row;
+}
+.contact p{
+    margin-right: 20px;
+}
+.personal_summary{
+    width:800px;
+}
+body{
+    width:1024px;
+    margin: auto;   
+}
+
+.header_image{
+    display: flex;
+    margin: auto;
+}
